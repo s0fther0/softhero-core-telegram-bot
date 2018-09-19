@@ -1,0 +1,19 @@
+{
+  "name": "softhero-core-telegram-bot",
+  "version": "1.0.0",
+  "description": "SoftHero Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0fther0/softhero-core-telegram-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0fther0/softhero-core-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/s0fther0/softhero-core-telegram-bot#readme"
+}
